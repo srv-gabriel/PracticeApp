@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PracticeApp</string>
+
+    <string-array name="polygons">
+        <item></item>
+        <item>aaa</item>
+        <item>bbb</item>
+        <item>ccc</item>
+        <item>ddd</item>
+        <item>eee</item>
+        <item>fff</item>
+        <item>ggg</item>
+    </string-array>
+
+    <string-array name="teor">
+        <item></item>
+        <item>111</item>
+        <item>222</item>
+        <item>333</item>
+        <item>444</item>
+        <item>555</item>
+        <item>666</item>
+        <item>777</item>
+    </string-array>
+
+</resources>
