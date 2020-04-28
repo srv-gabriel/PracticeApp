@@ -69,6 +69,9 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
         }
         else {
+
+            Log.d("id", Integer.toString(holder.edtText.getId()));
+
             // Disabling the edit text
             if(holder.spin.getSelectedItem() == null){
                 holder.edtText.setEnabled(false);
