@@ -7,6 +7,7 @@ Implemented (At the moment):
  - CardView
  - RecyclerView
  - Dynamic creation of views in the RecyclerView
+ - Use of multithread
  
 Next Steps:
  - Tabs using Fragments
