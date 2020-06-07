@@ -6,7 +6,7 @@ Implementing (At the moment):
  - Read from Google Sheets using API
  - CardView
  - RecyclerView
- - Dynamic creation of views in the ScrollView
+ - Dynamic creation of views in the RecyclerView
  
 Next Steps:
  - Tabs using Fragments
