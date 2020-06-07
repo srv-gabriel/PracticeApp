@@ -2,7 +2,7 @@
 
 Android Application used to learn and practice developing new features.
 
-Implementing (At the moment):
+Implemented (At the moment):
  - Read from Google Sheets using API
  - CardView
  - RecyclerView
